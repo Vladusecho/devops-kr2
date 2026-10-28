@@ -1,3 +1,4 @@
+# KR2: Korzun
 import os
 import socket
 
